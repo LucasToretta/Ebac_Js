@@ -4,7 +4,7 @@ function validaNumero(NumeroB) {
     return NumeroB.length > NumeroA
 }
 
-form.addEventListener('submit',function(e) {
+form.addEventListener('submit', function(e) {
     let FormEValido = false;
     e.preventDefault();
 
